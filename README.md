@@ -11,6 +11,9 @@ Branding Elements: Incorporates a logo and carefully selected images to represen
 
 ## Repository Structure
 index.html  # Main HTML file.
+
 style.css # CSS file for styling.
+
 logo.png # Logo of the website.
+
 food.png # Food image used in the design.
