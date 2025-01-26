@@ -1,7 +1,7 @@
 # Landing Page
 
 # About This Project
-This repository contains the code for a responsive and visually appealing landing page created for [Website Name]. The page is designed with a modern aesthetic and is optimized for seamless viewing across devices, including desktops, tablets, and mobile phones.
+This repository contains the code for a responsive and visually appealing landing page created for kfc.com. The page is designed with a modern aesthetic and is optimized for seamless viewing across devices, including desktops, tablets, and mobile phones.
 
 The project demonstrates the following:
 
