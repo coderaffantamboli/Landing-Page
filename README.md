@@ -17,3 +17,15 @@ style.css # CSS file for styling.
 logo.png # Logo of the website.
 
 food.png # Food image used in the design.
+
+
+
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/coderaffantamboli/Landing-Page.git
+   ```
+2. Open `index.html` in your browser to view the landing page.
+
+## Contributions
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
